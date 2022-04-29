@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video on Michael Ordetx</title>
+    <link>https://example.com/tags/video/</link>
+    <description>Recent content in video on Michael Ordetx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://example.com/post/introduction/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/introduction/</guid>
+      
+        <description>&lt;p&gt;Note: If you are reading this post from the home page, clicking into the post itself is required for the Youtube video to appear. I am currently working out a solution to have the video appear on the home page, although I am not sure this is possible with the theme I have chosen. Maybe it will lead me to developing my own theme in the future&amp;hellip;&lt;/p&gt;
+&lt;p&gt;For the purpose of the assignment that I am initially building this site for, I decided that the required video would be best suited here on the introduction post. For the content of the video itself, I chose to go over some of the background information relating to the site&amp;rsquo;s file structure to provide some simple info about how Hugo sites exist and operate.&lt;/p&gt;
+&lt;p&gt;This video was implemented into the site with &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; which allows for static and non-static JS code to be embedded easily. For somebody like myself, this is part of what makes using a static-site generator like Hugo so easy to work with and learn about.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
