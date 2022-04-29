@@ -1,0 +1,29 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "About"
+  weight = 200
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = "Posts"
+  weight = 300
+  identifier = "posts"
+  url = "/post/"
+
+  [[main]]
+  name = "Resume"
+  weight = 400
+  identifier = "resume"
+  url = "/files/michaelordetxresume.pdf"
+
+  [[main]]
+  name = "Contact"
+  weight = 500
+  identifier = "contact"
+  url = "/contact/"
